@@ -1,2 +1,1 @@
-# Personal-Site
-A simple personal Site
+## Personal Site
